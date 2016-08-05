@@ -16,9 +16,6 @@ botnick = 'cognito'
 name = 'in cognito'
 admin = 'sleeper'
 
-t_user = 'cogshell'
-t_pass = '96sinala'
-
 score_filename = 'scores.yaml'
 alias_filename = 'alias.yaml'
 
